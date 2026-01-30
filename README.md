@@ -3,7 +3,7 @@
 <a href = " "> link <a/>
 
 
-## roject Overview
+## Project Overview
 This project analyzes the impact of advertising spending and discount strategies on sales performance. The goal is to understand key business drivers and build a predictive model to support data-driven marketing decisions.
 
 ## Business Problem
