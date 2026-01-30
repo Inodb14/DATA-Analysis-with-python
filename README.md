@@ -4,17 +4,17 @@ This project contain the different analysis with python
 
 
 ## Marketing Sales Analysis & Prediction Project
-#roject Overview
+## roject Overview
 This project analyzes the impact of advertising spending and discount strategies on sales performance. The goal is to understand key business drivers and build a predictive model to support data-driven marketing decisions.
 
-##Business Problem
+## Business Problem
 Companies invest heavily in marketing and promotions, but often lack clear insight into:
 How advertising spend influences sales
 The effect of discount rates on revenue
 Whether future sales can be predicted using marketing data
 This project addresses these questions using data analysis and machine learning.
 
-##Objectives
+## Objectives
 Explore relationships between marketing factors and sales
 Clean and prepare data for analysis
 Detect and remove outliers to improve data quality
@@ -41,23 +41,23 @@ R-squared (R²) score
 Visualization
 Comparison between actual vs predicted sales
 
-##Key Insights
+## Key Insights
  Advertising spend has a strong positive relationship with sales
  Discount strategies influence sales but must be optimized to protect profitability
 Sales can be predicted with reasonable accuracy using marketing variables
 
-##Business Value
+## Business Value
 This project helps organizations:
 Make data-driven marketing decisions
 Optimize advertising budgets
 Plan future sales more accurately
 Reduce reliance on intuition
 
-##Tools & Technologies
+## Tools & Technologies
 Python
 Pandas, NumPy
 Matplotlib / Seaborn
 Scikit-learn
 
-##Conclusion
+## Conclusion
 Marketing actions such as advertising and promotions significantly affect sales. By combining data analysis and predictive modeling, businesses can improve strategy, forecasting, and overall performance.
